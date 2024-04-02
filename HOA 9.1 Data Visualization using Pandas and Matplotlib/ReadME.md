@@ -1,1 +1,2 @@
-
+# Conclusion
+In doing this activity, I learned that subplots provides a way to plot multiple plots on a single figure. Given the number of rows and columns , it returns a tuple ( fig , ax ), giving a single figure fig with an array of axes ax. Furthermore, we can customize our plots in the graph to make it visually appealing to the audience. Moreover, I learned as well that KDE is useful when dealing with continuous data or when you want to explore if your date follows a normal distribution.
