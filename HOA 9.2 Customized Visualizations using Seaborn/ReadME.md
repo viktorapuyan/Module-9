@@ -1,1 +1,2 @@
-
+#Conclusion
+For this activity, I had difficulties when it comes to box plotting. I find it hardest to deal with because of its complexity. But after a few tries, I am slowly learning my way up. I find out that heatmap is used for determining the strength of relationships between numerical variables just like in number 1. In seeing stock market trends, Box plots helps in analyzing for each month, how the data is varying over the various years of time series
